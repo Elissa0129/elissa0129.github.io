@@ -1,7 +1,7 @@
 
 # Elissa Rodriguez's Portfolio
 
-I am a computer science major at CSUF and I plan on (hopefully!) graduating in 2027.
+Hi! This is my homepage! My name is Elissa and I am a computer science major at CSUF. I plan on (hopefully!) graduating in 2027.
 
 ##  Favorite CPSC 120L Labs
 
