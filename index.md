@@ -6,7 +6,7 @@ I am a computer science major at CSUF and I plan on (hopefully!) graduating in 2
 ##  Favorite CPSC 120L Labs
 
 Lab 7
-Lab 7, part 1 was a favorite because trying to figure out ways to get the code to understand the correct times and streets was definitely a puzzle. Sometimes trying to understand the signs in general were a struggle in itself. But getting the test to work and try it myself was pretty impressive. 
+Lab 7, part 1 was a favorite because trying to figure out ways to get the code to understand the correct times and streets was definitely a puzzle. i had to figure out which operators to use and in the right order as well. But getting the test to work and try it myself was pretty impressive. 
 
 Lab 12
 Lab 12, part 1 was the lab I most looked forward to since the beginning of this semester. Learning how to code an image that’s colorful and “moves” amazed me. I’ll be practicing over the summer trying to get different outcomes.
